@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my end of studies project
 - 🌱 I’m currently learning spring boot and angular
 - 💬 Ask me about web and mobile development
-- 📫 How to reach me: <a href="graed806@gmail.com">My email</a>
+- 📫 How to reach me: <a href="mailto:graed806@gmail.com">My email</a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redxgh" alt="redxgh" /></a> </p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redxgh&show_icons=true&locale=en&layout=compact" alt="redxgh" /></p>
